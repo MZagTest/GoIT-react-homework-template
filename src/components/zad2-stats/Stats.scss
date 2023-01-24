@@ -1,0 +1,40 @@
+.statistics {
+  margin-top: 50px;
+  background-color: #fff;
+
+  & .title {
+    font-size: 24px;
+    text-align: center;
+    padding: 20px;
+  }
+
+  & .stat-list {
+    padding-top: 10px;
+    display: flex;
+    & li {
+      display: flex;
+      flex-flow: column;
+      width: 20%;
+      align-items: center;
+      padding: 10px 20px;
+
+      &:nth-child(even) {
+        background-color: beige;
+      }
+      &:nth-child(odd) {
+        background-color: aliceblue;
+      }
+    }
+  }
+
+  & .label {
+    color: #333;
+    font-size: 12px;
+    padding-bottom: 10px;
+    font-weight: 700;
+  }
+
+  & .percentage {
+    font-size: 18px;
+  }
+}
