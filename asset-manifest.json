@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GoIT-react-homework-template/static/css/main.c6b027dd.css",
+    "main.js": "/GoIT-react-homework-template/static/js/main.7dbf585d.js",
+    "index.html": "/GoIT-react-homework-template/index.html",
+    "main.c6b027dd.css.map": "/GoIT-react-homework-template/static/css/main.c6b027dd.css.map",
+    "main.7dbf585d.js.map": "/GoIT-react-homework-template/static/js/main.7dbf585d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6b027dd.css",
+    "static/js/main.7dbf585d.js"
+  ]
+}
